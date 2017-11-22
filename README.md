@@ -1,4 +1,4 @@
-# ebcdic 
+# ebcdic-rs 
 [![Build Status](https://travis-ci.org/rohitjoshi/ebcdic-rs.svg?branch=master)](https://travis-ci.org/rohitjoshi/ebcdic-rs)
 
 Provides methods to convert ebcsic to ascii format and back
