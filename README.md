@@ -39,11 +39,11 @@ Provides methods to convert ebcsic to ascii format and back
             0xc1,0xd5,0x40,0x40,0x40,
             0x40,0x40,0x40,0x40,0x40,
         ];
-        let ascii = String::from("S. D. BORMAN        ");
-        let mut ascii_str: [u8; 20] = [0u8; 20];
-        Ebcdic::ebcdic_to_ascii(&ebcdic_bytes, &mut ascii_str, 20, false, true);
-        println!("Ascii Output:{}", str::from_utf8(&ascii_str).unwrap());
-        assert_eq!(ascii.as_bytes(), ascii_str);
+     let ascii = String::from("S. D. BORMAN        ");
+     let mut ascii_str: [u8; 20] = [0u8; 20];
+     Ebcdic::ebcdic_to_ascii(&ebcdic_bytes, &mut ascii_str, 20, false, true);
+     println!("Ascii Output:{}", str::from_utf8(&ascii_str).unwrap());
+     assert_eq!(ascii.as_bytes(), ascii_str);
  }
  ```
 
