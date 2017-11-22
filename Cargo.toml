@@ -1,0 +1,16 @@
+[package]
+name = "ebcdic"
+version = "0.1.2"
+authors = ["Rohit Joshi <rohit.c.joshi@gmail.com>"]
+license = "MIT/Apache-2.0"
+description = "Library to convert EBCDIC to ASCII and back"
+homepage = "https://github.com/rohitjoshi/ebcdic-rs"
+repository = "https://github.com/rohitjoshi/ebcdic-rs"
+documentation = "https://github.com/rohitjoshi/ebcdic-rs/blob/master/README.md"
+keywords = ["ebcdic", "encoding"]
+categories = ["encoding"]
+readme = "README.md"
+include = ["Cargo.toml", "src/**/*.rs", "README.md", "LICENSE-APACHE", "LICENSE-MIT"]
+
+[dependencies]
+
