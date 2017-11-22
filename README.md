@@ -1,5 +1,6 @@
 # ebcdic-rs 
-[![Build Status](https://travis-ci.org/rohitjoshi/ebcdic-rs.svg?branch=master)](https://travis-ci.org/rohitjoshi/ebcdic-rs)[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/rohitjoshi/ebcdic-rs.svg?branch=master)](https://travis-ci.org/rohitjoshi/ebcdic-rs)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Provides methods to convert ebcsic to ascii format and back
 
