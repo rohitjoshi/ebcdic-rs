@@ -1,5 +1,5 @@
 # ebcdic - Provides methods to convert ebcsic to ascii format and back.
-===========
+
 
 # EBCDIC to ASCII
  It support EBCDIC format (character set IBM-1047) which is used in IBM's TPF and OS/390 operating systems.
